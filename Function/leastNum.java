@@ -10,6 +10,6 @@ public class leastNum{
         int c = sc.nextInt();
         System.out.println("Enter the four number:");
         int d = sc.nextInt();
-        System.out.println("The least number is : "+Math.min(Math.min(a,b),Math.min(c,d)));
+        System.out.println("The least number is : "+Math.min(Math.min(a,b),Math.min(c,d)));//to find gretest number out four
     }
 }
