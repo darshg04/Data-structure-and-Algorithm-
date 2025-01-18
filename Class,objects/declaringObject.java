@@ -7,7 +7,7 @@ class Student{
     String course;
 }
 
-public class declaring {
+public class declaringObject {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

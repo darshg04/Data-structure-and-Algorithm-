@@ -1,3 +1,4 @@
+//uses of in-built math function
 import java.util.Scanner;
 public class leastNum{
     public static void main(String[] args) {

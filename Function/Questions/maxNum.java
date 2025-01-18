@@ -1,3 +1,5 @@
+//uses of in-built math function
+
 import java.util.Scanner;
 public class maxNum {
     public static void main(String[] args) {

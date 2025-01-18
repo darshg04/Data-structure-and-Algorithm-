@@ -1,3 +1,4 @@
+package Questions;
 public class scopeofvariables {
     static int i;//initialization of globle variable
     public static void main(String[] args) {

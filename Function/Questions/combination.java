@@ -1,3 +1,5 @@
+//to find combination of n & r
+
 import java.util.Scanner;
 
 public class combination {
